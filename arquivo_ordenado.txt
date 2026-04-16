@@ -1,0 +1,4 @@
+Depois escrever o resultado em um novo arquivo
+O desafio é ler o arquivo
+Teste do desafio 4 do curso de Python.
+z, E ordenar as linhas em ordem alfabética

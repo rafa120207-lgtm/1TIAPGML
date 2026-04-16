@@ -1,3 +1,2 @@
-Olá, mundo!
-Adicionando mais conteúdo.
-Mais uma linha no final do arquivo.
+Olá, este é um arquivo de exemplo.
+Podemos escrever várias linhas aqui.
