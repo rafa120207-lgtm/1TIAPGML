@@ -2,7 +2,7 @@ with open('arquivo.txt', 'r') as file:
     conteudo = file.read()
     print(conteudo)
 
-with open('arquivo.txt', 'a') as file:
+with open('arquivo.txt', 'r') as file:
     linha1 = file.readline()
     linha2 = file.readline()
     linha3 = file.readline()
