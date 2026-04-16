@@ -1,11 +1,8 @@
-with open('arquivo.txt', 'r') as file:
+with open('meuarquivo.txt', 'w') as file:
+    file.write('Olá, mundo!\n')
+    file.write('Este é um arquivo de texto.\n')
+    file.write('Criado por Rafael\n')
+
+with open('meuarquivo.txt', 'r') as file:
     conteudo = file.read()
     print(conteudo)
-
-with open('arquivo.txt', 'r') as file:
-    linha1 = file.readline()
-    linha2 = file.readline()
-    linha3 = file.readline()
-    print(linha1)
-    print(linha2)
-    print(linha3)
